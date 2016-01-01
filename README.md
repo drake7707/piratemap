@@ -5,3 +5,5 @@ This was done as part of the monthly challenge over on https://www.reddit.com/r/
 
 
 Try it out on: http://drake7707.github.io/piratemap/
+
+If you want to use a custom seed, add ?seed=your_number as querystring, for example http://drake7707.github.io/piratemap/?seed=77077707
